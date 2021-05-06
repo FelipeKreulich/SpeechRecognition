@@ -24,6 +24,10 @@ Foram utilizadas as seguintes ferramentas para o Projeto:
 - SCSS (SASS)
 - Javascript (JS)
 
+<h1 align="center">
+  <img width="500" alt="SpeechRecog" title="#SpeechRecog" src="https://i.imgur.com/KMCVt9C.png" />
+</h1>
+
 ### Pré-requisitos
 
 É necessário um bom editor para trabalhar com o código, como: [VSCode](https://code.visualstudio.com/) ou [Sublime Text](https://www.sublimetext.com/)
