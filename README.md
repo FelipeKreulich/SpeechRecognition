@@ -32,7 +32,7 @@ Foram utilizadas as seguintes ferramentas para o Projeto:
 
 É necessário um bom editor para trabalhar com o código, como: [VSCode](https://code.visualstudio.com/) ou [Sublime Text](https://www.sublimetext.com/)
 
-##Para um bom funcionamento desta tecnologia, recomenda-se o Navegador Google Chrome, outros navegadores podem não ser compatíveis!
+## Para um bom funcionamento desta tecnologia, recomenda-se o Navegador Google Chrome, outros navegadores podem não ser compatíveis!
 
 ```bash
 # Clone este repositório
